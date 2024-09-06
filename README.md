@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madhur Gupta
-- 👀 I’m interested in Cross-Platform app development, competetive programming and machine learning.
-- 🌱 I’m currently learning Flutter and DSA
+- 👀 I’m interested in AWS and DevOps tools like Jenkins, Docker, Kubernetes etc 
+- 🌱 I’m currently working at WatchGuard Technologies as DevOps intern.
 
 <!---
 madhurgupta004/madhurgupta004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
